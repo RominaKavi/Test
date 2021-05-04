@@ -1,0 +1,37 @@
+// <!-- <mdb:mork:z v="1.4"/> -->
+< <(a=c)> // (f=iso-8859-1)
+  (8A=charset)(8B=folderName)(8C=indexingPriority)
+  (80=ns:msg:db:row:scope:folders:all)(81=ns:msg:db:table:kind:folders)
+  (82=key)(83=flags)(84=totalMsgs)(85=totalUnreadMsgs)
+  (86=pendingUnreadMsgs)(87=pendingMsgs)(88=expungedBytes)(89=folderSize)>
+
+<(80
+    =/home/romina/.thunderbird/gju6dpev.default-release/Mail/Local Folders/Tra\
+sh.msf)(81=104)(82=0)(83=ffffffffffffffff)(84=ISO-8859-1)(85=Trash)
+  (86
+    =/home/romina/.thunderbird/gju6dpev.default-release/Mail/Local Folders/Uns\
+ent Messages.msf)(87=804)(89=Outbox)(8A
+    =/home/romina/.thunderbird/gju6dpev.default-release/Mail/Local Folders)
+  (8B=1c)(8C=ffffffff)(8D=)(8E=Local Folders)(8F
+    =/home/romina/.thunderbird/gju6dpev.default-release/Mail/localhost/Inbox.m\
+sf)(90=1004)(91=Inbox)(92
+    =/home/romina/.thunderbird/gju6dpev.default-release/Mail/localhost/Trash.m\
+sf)(93=/home/romina/.thunderbird/gju6dpev.default-release/Mail/localhost)
+  (94=romishkavi@gmail.com)(95
+    =/home/romina/.thunderbird/gju6dpev.default-release/Mail/localhost/Drafts.\
+msf)(96=404)(98=1)(99=741f)(97=Drafts)>
+{1:^80 {(k^81:c)(s=9)} 
+  [1(^82^80)(^83^81)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B^85)]
+  [2(^82^86)(^83^87)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B^89)]
+  [3(^82^8A)(^83=1c)(^84^8C)(^85^8C)(^86=0)(^87=0)(^88=0)(^89^83)(^8A=)
+    (^8B^8E)]
+  [4(^82^8F)(^83^90)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B^91)]
+  [5(^82^92)(^83^81)(^84=0)(^85=0)(^86=0)(^87=0)(^88=0)(^89^83)(^8A^84)
+    (^8B^85)]
+  [6(^82^93)(^83=1c)(^84^8C)(^85^8C)(^86=0)(^87=0)(^88=0)(^89^83)(^8A=)
+    (^8B^94)]
+  [7(^82^95)(^83^96)(^84=1)(^85=1)(^86=0)(^87=0)(^88=0)(^89^99)(^8A^84)
+    (^8B^97)]}
