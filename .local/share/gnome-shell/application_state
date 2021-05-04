@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="136" last-seen="1620116221"/>
-    <application id="org.gnome.Terminal.desktop" score="1087" last-seen="1620116203"/>
-    <application id="org.gnome.gedit.desktop" score="819" last-seen="1620050463"/>
+    <application id="org.gnome.Nautilus.desktop" score="191" last-seen="1620122293"/>
+    <application id="org.gnome.Terminal.desktop" score="1833" last-seen="1620121712"/>
+    <application id="org.gnome.gedit.desktop" score="861" last-seen="1620122294"/>
     <application id="update-manager.desktop" score="0" last-seen="1620029269"/>
   </context>
 </application-state>

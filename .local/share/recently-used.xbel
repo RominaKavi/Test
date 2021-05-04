@@ -215,7 +215,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/romina/Documents/OSLab5/README.md" added="2021-05-03T08:06:08Z" modified="2021-05-03T14:01:01Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/romina/Documents/OSLab5/README.md" added="2021-05-03T08:06:08Z" modified="2021-05-04T09:58:16Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
@@ -223,21 +223,36 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-05-03T13:44:46Z" count="4"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-05-03T14:01:01Z" count="14"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-05-04T09:58:13Z" count="8"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-05-04T09:58:16Z" count="21"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/romina/Documents/OSLab5/1.sh" added="2021-05-03T08:29:06Z" modified="2021-05-03T08:29:07Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/romina/Documents/OSLab5/1.sh" added="2021-05-03T08:29:06Z" modified="2021-05-04T09:48:50Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="text/plain"/>
+        <mime:mime-type type="application/x-shellscript"/>
         <bookmark:groups>
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-05-03T08:29:07Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-05-04T09:48:50Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-05-04T09:48:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/romina/Documents/OSLab5/4.sh" added="2021-05-04T09:48:23Z" modified="2021-05-04T09:54:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-05-04T09:54:15Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-05-04T09:54:15Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

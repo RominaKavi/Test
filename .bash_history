@@ -142,3 +142,38 @@ git init
 git add
 y
 git add .
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/RominaKavi/Test.git
+git remote -v
+git push origin master
+git branch -m test1
+git push origin -u test1
+git push origin -u -f test1
+git add .
+git commit -m "changes"
+git remote add origin https://github.com/RominaKavi/Test.git
+git remote -v
+git push origin master
+git branch -m test1
+git push origin -u test1
+git push origin -u -f test1
+cd romina
+cd romina.git
+git init
+git add --all
+git commit -m "chang"
+git remote add originhttps://github.com/RominaKavi/Test.git
+git branch -m main
+git push -u origin main
+git push origin -u main
+git push
+git remote add RominaKavi https://github.com/RominaKavi/Test.git
+git push RominaKavi
+git push --set-upstream RominaKavi main
+uptime
+uptime --help
+uptime -s
+uptime -p
+who -b
