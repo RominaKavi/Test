@@ -177,3 +177,20 @@ uptime --help
 uptime -s
 uptime -p
 who -b
+git add --all
+git commit -m "update"
+git push
+cd Documents/
+cd OSLab5
+git add --all
+git commit -m "new"
+git push
+git add --all
+git commit -m "changes"
+git push
+git add --all
+git commit -m "new"
+git push
+git add --all
+git commit -m "update"
+git push

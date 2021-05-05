@@ -215,7 +215,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/romina/Documents/OSLab5/README.md" added="2021-05-03T08:06:08Z" modified="2021-05-04T09:58:16Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/romina/Documents/OSLab5/README.md" added="2021-05-03T08:06:08Z" modified="2021-05-04T10:25:52Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/markdown"/>
@@ -223,8 +223,8 @@
           <bookmark:group>gedit</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-05-04T09:58:13Z" count="8"/>
-          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-05-04T09:58:16Z" count="21"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-05-04T10:25:35Z" count="12"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-05-04T10:25:52Z" count="30"/>
         </bookmark:applications>
       </metadata>
     </info>

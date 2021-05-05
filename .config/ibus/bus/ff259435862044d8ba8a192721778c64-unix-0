@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/romina/.cache/ibus/dbus-6HEILYeT,guid=e3f7fad189f5ea27e008bc4b6090f8c0
-IBUS_DAEMON_PID=1586
+IBUS_ADDRESS=unix:abstract=/home/romina/.cache/ibus/dbus-DoybvNat,guid=9cba95fc67b0a8b6d97d9d216092d939
+IBUS_DAEMON_PID=1605
