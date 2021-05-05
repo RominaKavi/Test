@@ -332,3 +332,15 @@ X Protocol Version 11, Revision 0
 [    86.571] (II) config/udev: Adding input device VirtualPS/2 VMware VMMouse (/dev/input/mouse0)
 [    86.572] (II) No input driver specified, ignoring this device.
 [    86.572] (II) This device may have been added with another device file.
+[   247.857] (!!) vmware(0): New layout.
+[   247.857] (!!) vmware(0): 0: 0 0 1364 610
+[   247.857] (!!) vmware(0): 
+[   254.696] (!!) vmware(0): New layout.
+[   254.696] (!!) vmware(0): 0: 0 0 1364 487
+[   254.696] (!!) vmware(0): 
+[   262.130] (!!) vmware(0): New layout.
+[   262.130] (!!) vmware(0): 0: 0 0 820 487
+[   262.130] (!!) vmware(0): 
+[  1694.764] (!!) vmware(0): New layout.
+[  1694.765] (!!) vmware(0): 0: 0 0 820 492
+[  1694.765] (!!) vmware(0): 

@@ -194,3 +194,10 @@ git push
 git add --all
 git commit -m "update"
 git push
+git init
+git add .
+git commit -m "test this repository"
+git remote add origin https://github.com/RominaKavi/Test.git
+git remote -v
+git push origin master
+git push --help

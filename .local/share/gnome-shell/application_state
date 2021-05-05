@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="org.gnome.Nautilus.desktop" score="191" last-seen="1620123922"/>
-    <application id="org.gnome.Terminal.desktop" score="1881" last-seen="1620123818"/>
+    <application id="org.gnome.Terminal.desktop" score="2004" last-seen="1620237494"/>
     <application id="org.gnome.gedit.desktop" score="1037" last-seen="1620123921"/>
     <application id="update-manager.desktop" score="0" last-seen="1620029269"/>
   </context>
